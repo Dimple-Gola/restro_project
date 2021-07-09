@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+     font-family:"open-sans";
+}
+
+.inner-banner-image{
+     padding-top:12%;
+     width:100%;
+     margin:auto;
+}
+
+.banner-content{
+     position:relative;
+     overflow:hidden;
+     margin-bottom:12%;
+     background-image: url("New\ folder/banner.png");
+     width: 1350px;
+     height:550px;
+}
+
+.navbar-brand{
+     width: 228px;
+     height: 17px;
+     font-size: 22px;
+     line-height: 30px;
+     color: #12a84e;
+     font-weight: bold;
+     font-family: "Open Sans";
+}
+
+.navbar-nav li a{
+     font-family: "Open Sans";
+     height: 14px;
+     font-size: 14px;
+     line-height: 30px;
+     font-weight:bold;
+}
+
+
+
+
